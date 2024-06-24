@@ -11,7 +11,7 @@
 - ⚡ Fun fact: Favorite game is Eldin Ring, Call of Duty, and I love watching Anime
 -->
 
- Hello, I'm Jalen Echols
+ #Hello, I'm Jalen Echols
 <a href="https://www.linkedin.com/in/jalen-echols/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
