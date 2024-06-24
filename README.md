@@ -16,7 +16,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a recent graduate from the University of Colorado - Colorado Springs with a strong passion for technology and a commitment to tackling complex challenges. I continue to look for ways to advance my knowledge in current technologies while becoming a better contributor to my organization.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
