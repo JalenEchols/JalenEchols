@@ -7,11 +7,10 @@
 - 🌱 I’m currently learning about securing and how attacks work against PCs
 - 👯 I’m looking to collaborate on cloud projects
 - 🤔 I’m looking for help with getting into Cloud Engineering & DevOps
-- 📫 How to reach me: LinkedIN
+- 📫 How to reach me: LinkedIn
 - ⚡ Fun fact: Favorite game is Eldin Ring, Call of Duty, and I love watching Anime
 -->
 
- #Hello, I'm Jalen Echols
 <a href="https://www.linkedin.com/in/jalen-echols/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
