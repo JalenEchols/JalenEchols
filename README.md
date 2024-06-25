@@ -3,8 +3,8 @@
 <!--
 **JalenEchols/JalenEchols** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on CEH (Certified Ethical Hacker) side mission
-- 🌱 I’m currently learning about securing and how attacks work against PCs
+🔭 I’m currently working on CEH (Certified Ethical Hacker) side mission
+🌱 I’m currently learning about securing and how attacks work against PCs
 - 👯 I’m looking to collaborate on cloud projects
 - 🤔 I’m looking for help with getting into Cloud Engineering & DevOps
 - 📫 How to reach me: LinkedIn
@@ -13,6 +13,11 @@
 
 <a href="https://www.linkedin.com/in/jalen-echols/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+<a href="https://medium.com/@JalenEchols/"><img src="https://img.shields.io/badge/-Medium-00ab6c?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+
+https://medium.com/@JalenEchols
+
+
 [Brief Introduction - Remove this afterwards]
 
 I am a recent graduate from the University of Colorado - Colorado Springs with a strong passion for technology and a commitment to tackling complex challenges. I continue to look for ways to advance my knowledge in current technologies while becoming a better contributor to my organization.
@@ -20,7 +25,7 @@ I am a recent graduate from the University of Colorado - Colorado Springs with a
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in Information Technology has led me to develop a passion for cybersecurity, networking and cloud. I am now eager to transition into one of these field, specifically aiming utilize skills I learn from all three disciplines in my organization.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
