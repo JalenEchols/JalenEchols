@@ -15,8 +15,6 @@
 
 <a href="https://medium.com/@JalenEchols/"><img src="https://img.shields.io/badge/-Medium-00ab6c?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
-https://medium.com/@JalenEchols
-
 
 [Brief Introduction - Remove this afterwards]
 
