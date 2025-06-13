@@ -1,15 +1,15 @@
-## Hello, My Name is Jalen Echols 👋
+##   Hello, My Name is Jalen Echols 👋
 
-<!--
-**JalenEchols/JalenEchols** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-🔭 I’m currently working on CEH (Certified Ethical Hacker) side mission
-🌱 I’m currently learning about securing and how attacks work against PCs
-- 👯 I’m looking to collaborate on cloud projects
-- 🤔 I’m looking for help with getting into Cloud Engineering & DevOps
-- 📫 How to reach me: LinkedIn
-- ⚡ Fun fact: Favorite game is Eldin Ring, Call of Duty, and I love watching Anime
--->
+
+🚧 I’m currently working on CEH (Certified Ethical Hacker) side mission
+👾 I’m currently learning about linux and cyber penetration attacks
+💡 I’m looking  on cloud and linux projects
+📍 I’m looking for help with getting into Security Engineering or DevOps
+🌩 Ask me about Cybersecurity, Cloud, Fitness, Anime or Productivity
+📫 How to reach me: LinkedIn
+
+
 
 <a href="https://www.linkedin.com/in/jalen-echols/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
